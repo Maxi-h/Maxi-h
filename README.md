@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Maxi-h<br>👀 I’m interested in Flutter | React Native Mobile Development.
+- 👋 Hi, I’m @Maxi-h
+- 👀 I’m interested in Flutter | React Native Mobile Development.
 - 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on FLutter Mobile Development & React Native.
 - 📫 How to reach me in [LinkedIn](https://www.linkedin.com/in/juan-maxi-huillca/)
